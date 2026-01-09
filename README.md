@@ -25,7 +25,7 @@ Before running the code, make sure the following dependencies are installed:
 You can install the required Python packages using pip:
 
 ```bash
-pip install cvxpy numpy matplotlib´´´
+pip install cvxpy numpy matplotlib```
 
 ## Repository Structure
 
