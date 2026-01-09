@@ -54,7 +54,7 @@ To run the numerical computations, execute the main scripts. For example, to com
 
 ```bash
 python main/general_code/corrolator_inflation.py
-
+```
 **Warning:** These computations can be extremely time-consuming and resource-intensive, especially for large numbers of vertices.
 
 ---
@@ -65,7 +65,7 @@ To generate plots from the precomputed data stored in the `data/` directory, run
 
 ```bash
 python plot/best_of_each_inflation.py
-
+```
 ## Related Research
 
 This codebase contributed to the research paper:
