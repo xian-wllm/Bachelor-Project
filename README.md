@@ -78,3 +78,19 @@ https://arxiv.org/abs/2502.14950
 The paper investigates whether symmetries observed in probability distributions necessarily imply the existence of symmetric causal explanations. Using causal compatibility techniques closely related to the **inflation hierarchy**, it demonstrates that certain symmetric correlations admit no symmetric classical or quantum causal model.
 
 The numerical feasibility tests, optimization-based methods, and inflation-inspired techniques implemented in this repository directly support and inform the results presented in this work.
+
+```bibtex
+@article{william2024symmetric,
+  title={Symmetric observations without symmetric causal explanations},
+  author={William, Christian and Remy, Patrick and Bancal, Jean-Daniel and Cai, Yu and Brunner, Nicolas and Pozas-Kerstjens, Alejandro},
+  journal={arXiv preprint arXiv:2502.14950},
+  year={2024}
+}
+```
+
+##  Acknowledgments
+
+This work was developed as part of a Bachelor project at the **University of Geneva**,  
+with support from the **Quantum Information Theory group** and collaborators of the referenced research paper.
+
+
